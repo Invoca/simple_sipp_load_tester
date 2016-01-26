@@ -3,7 +3,7 @@
 This repo consists of:
 
 1. a binary compiled for the system kernel listed below
-1. an xml scenario that should be modified lightly.
+1. an xml scenario that should be modified with extreme caution
 1. this README
 
 This command makes reference to the included binary compiled against:
