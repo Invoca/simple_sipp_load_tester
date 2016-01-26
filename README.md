@@ -34,4 +34,4 @@ For example, to call the number 888-555-1212 at the IP 55.55.55.55 from the loca
 
 Run this:
 
-    $ ifconfig | grep en0 -A 5 | grep 'inet '
+    $ ifconfig | grep en0 -A 5 | grep 'inet ' | cut -d ' ' -f 2
