@@ -59,7 +59,7 @@
   <!-- Audio must be encoded at PCM A-Law, 8000 hz g.711 -->
   <nop>
     <action>
-      <exec rtp_stream="assets/wav/30_mu.wav,-1,0"/>
+      <exec rtp_stream="all_the_girls_8bit_8000Hz_pcmu.wav,-1,0"/>
     </action>
   </nop>
 
